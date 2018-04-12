@@ -3,4 +3,5 @@
  */
 public class hello {
     System.out.pritln ("hah");
+    System.out.pritln ("zhangcan weishenme zhemediao");
 }
