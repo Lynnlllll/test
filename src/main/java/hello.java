@@ -4,5 +4,6 @@
 public class hello {
     System.out.pritln ("hah");
     System.out.pritln ("zhangcan weishenme zhemediao");
+    System.out.pritln ("woyeshifu");
     System.out.pritln ("zijidoubianbuxiaqule");
 }
